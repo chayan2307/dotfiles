@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chayan.agarwal@yahoo.com
+	name = Chayan Agarwal
